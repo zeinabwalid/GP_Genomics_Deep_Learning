@@ -1,0 +1,7 @@
+{
+  "name": "genetics-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
